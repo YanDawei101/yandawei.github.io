@@ -18,7 +18,7 @@ Educations
 
 Publications
 ======
-* [<b><font color=Red face="黑体">红色加粗黑体</font></b>] 
+* [<b><font color=Red face="黑体"> [ IEEE INFOCOM 2025 ] </font></b>  Shanyue Wang, Yuxin Ding, Yubo Yan, Feiyu Han, **Dawei Yan**, Panlong Yang. MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion. IEEE International Conference on Computer Communications.
 
 Awards
 ======
