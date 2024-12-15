@@ -24,11 +24,11 @@ author:
   avatar           : "daweiyan.jpg"
   name             : "Dawei Yan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "China"
+  bio              : "Wireless Sensing, Mobile Computing, RF Fingerprints"
+  location         : "Hefei, Anhui, China"
   employer         : "USTC"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yandw@mail.ustc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
