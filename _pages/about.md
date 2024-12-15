@@ -21,10 +21,8 @@ Publications
 * <b><font color=Red face="黑体"> [ IEEE INFOCOM 2025 ] </font></b>  Shanyue Wang, Yuxin Ding, Yubo Yan, Feiyu Han, **Dawei Yan**, Panlong Yang. MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion. IEEE International Conference on Computer Communications.
 
 ---
-[freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors](https://dl.acm.org/doi/10.1145/3641512.3686362)
-
-**Dawei Yan**, Panlong Yang, Fei Shang, Feiyu Han, Yubo Yan, Xiang-Yang Li
-
+[freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors](https://dl.acm.org/doi/10.1145/3641512.3686362) \
+**Dawei Yan**, Panlong Yang, Fei Shang, Feiyu Han, Yubo Yan, Xiang-Yang Li.  \
 **ACM MobiHoc 2024**
 
 ---
