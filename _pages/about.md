@@ -25,7 +25,8 @@ Publications
 
 **Dawei Yan**, Panlong Yang, Fei Shang, Feiyu Han, Yubo Yan, Xiang-Yang Li
 
-**ACM MobiHoc 2024**
+ACM MobiHoc 2024
+
 ---
 
 
