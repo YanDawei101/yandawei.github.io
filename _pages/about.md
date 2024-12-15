@@ -18,7 +18,7 @@ Educations
 
 Publications
 ======
-* [<b><font color=Blue size=7 face="黑体">红色加粗黑体</font></b>] 
+* [<b><font color=Red face="黑体">红色加粗黑体</font></b>] 
 
 Awards
 ======
