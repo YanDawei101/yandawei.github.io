@@ -19,22 +19,25 @@ Educations
 Publications
 ======
 ---
-[**MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion**](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference) \
+* [**MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion**](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference) \
 Shanyue Wang, Yuxin Ding, Yubo Yan, Feiyu Han, **Dawei Yan**, Panlong Yang.  \
-**IEEE INFOCOM 2025**
+**IEEE INFOCOM 2025**  \
+[PDF]() | [Slide]()
 
 ---
-[**Non-intrusive and Efficient Estimation of Antenna 3-D Orientation for WiFi APs**](https://ieeexplore.ieee.org/abstract/document/10731634) \
+* [**Non-intrusive and Efficient Estimation of Antenna 3-D Orientation for WiFi APs**](https://ieeexplore.ieee.org/abstract/document/10731634) \
 **Dawei Yan**, Panlong Yang, Fei Shang, Nikolaos M Freris, Yubo Yan.  \
-**IEEE TMC 2024**
+**IEEE TMC 2024**  \
+[PDF]()
 
 ---
-[**freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors**](https://dl.acm.org/doi/10.1145/3641512.3686362) \
+* [**freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors**](https://dl.acm.org/doi/10.1145/3641512.3686362) \
 **Dawei Yan**, Panlong Yang, Fei Shang, Feiyu Han, Yubo Yan, Xiang-Yang Li.  \
-**ACM MobiHoc 2024**
+**ACM MobiHoc 2024**  \
+[PDF]() | [Slide]()
 
 ---
-[**freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors**](https://dl.acm.org/doi/10.1145/3641512.3686362) \
+* [**freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors**](https://dl.acm.org/doi/10.1145/3641512.3686362) \
 **Dawei Yan**, Panlong Yang, Fei Shang, Feiyu Han, Yubo Yan, Xiang-Yang Li.  \
 **ACM MobiHoc 2024**
 
