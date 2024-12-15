@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yan Dawei, a final year PhD student at the School of Computer Science and Technology, University of Science and Technology of China. My supervisors are Prof. Yang Panlong and Prof. Li Xiangyang (ACM/IEEE Fellow). My research interests cover wireless sensing, mobile computing, and RF fingerprinting. Researchers are welcome to contact me via email, and I look forward to our collaboration to make meaningful research contributions!
+I am Dawei Yan, a final year PhD student at the School of Computer Science and Technology, University of Science and Technology of China. My supervisors are Prof. Panlong Yang and Prof. Xiang-Yang Li (ACM/IEEE Fellow). My research interests cover wireless sensing, mobile computing, and RF fingerprints. Researchers are welcome to contact me via email, and I look forward to our collaboration to make meaningful research contributions!
 
 Educations
 ======
