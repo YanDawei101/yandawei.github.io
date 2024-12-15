@@ -80,6 +80,6 @@ Awards
 
 Educations
 ======
-* 2020.09 - 2025.06: School of Computer Science and Technology at University of Science and Technology of China, PhD.  \
+* 2020.09 - 2025.06: School of Computer Science and Technology at University of Science and Technology of China, PhD. 
 * 2012.09 - 2016.06: Measurement and Control Technology and Instruments at Jilin University, Bachelor.
 
