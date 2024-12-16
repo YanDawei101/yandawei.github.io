@@ -52,7 +52,7 @@ Feiyu Han, You Zuo, Panlong Yang, **Dawei Yan**, Yubo Yan.  \
 * [**freeLoc: Wireless-based Cross-Domain Device-free Fingerprints Localization to free User's Motions**](https://ieeexplore.ieee.org/abstract/document/10506982) \
 **Dawei Yan**, Fei Shang, Panlong Yang, Feiyu Han, Yubo Yan, Xiang-Yang Li.  \
 **IEEE IoTJ 2024**  \
-[PDF]() | [Slide]()
+[PDF]()
 
 ---
 * [**LiquImager: Fine-grained Liquid Identification and Container Imaging System with COTS WiFi Devices**](https://dl.acm.org/doi/abs/10.1145/3643509) \
@@ -70,7 +70,7 @@ Fei Shang, Panlong Yang, **Dawei Yan**, Sijia Zhang, Xiang-Yang Li.  \
 * [**Real-time Identification of Rogue WiFi Connections in the Wild**](https://ieeexplore.ieee.org/abstract/document/9956881) \
 **Dawei Yan**, Yubo Yan, Panlong Yang, Wen-Zhan Song, Xiang-Yang Li, Pengfei Liu.  \
 **IEEE IoTJ 2022**  \
-[PDF]() | [Slide]()
+[PDF]()
 
 
 Awards
