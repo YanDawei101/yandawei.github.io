@@ -13,6 +13,12 @@ I am Dawei Yan, a final year PhD student at the School of Computer Science and T
 Publications
 ======
 ---
+* [**MULiving: Towards Real-time Multi-User Survival State Monitoring Using Wearable RFID Tags**]() \
+Shang Gao, **Dawei Yan**, Yubo Yan.  \
+**IEEE ICASSP 2025**  \
+[PDF]() | [Slide]()
+
+---
 * [**MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion**]() \
 Shanyue Wang, Yuxin Ding, Yubo Yan, Feiyu Han, **Dawei Yan**, Panlong Yang.  \
 **IEEE INFOCOM 2025**  \
