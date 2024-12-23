@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Dawei Yan**, a final year PhD student at the School of Computer Science and Technology, University of Science and Technology of China (**USTC**). My supervisors are Prof. [Panlong Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=sst3cxoAAAAJ), Prof. [Xiang-Yang Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=JURtNb0AAAAJ) and Prof. [Yubo Yan](https://scholar.google.com.hk/citations?user=87iG2TQAAAAJ). My research interests cover **wireless sensing**, **mobile computing**, and **RF fingerprints**. Researchers are welcome to contact me via email, and I look forward to our collaboration to make meaningful research contributions!
+I am **Dawei Yan**, a final year PhD student at the School of Computer Science and Technology, University of Science and Technology of China (**USTC**). My supervisors are Prof. [Panlong Yang](https://scholar.google.com/citations?user=sst3cxoAAAAJ), Prof. [Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ) and Prof. [Yubo Yan](https://scholar.google.com.hk/citations?user=87iG2TQAAAAJ). My research interests cover **wireless sensing**, **mobile computing**, and **RF fingerprints**. Researchers are welcome to contact me via email, and I look forward to our collaboration to make meaningful research contributions!
 
 Publications
 ======
