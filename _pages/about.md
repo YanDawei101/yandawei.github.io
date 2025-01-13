@@ -13,6 +13,11 @@ I am **Dawei Yan**, a final year PhD student at the School of Computer Science a
 Publications
 ======
 ---
+* [**EarOE: Enabling Body-Channel Voice Interaction Interface on Earphones via Occlusion Effect**]() \
+Feiyu Han, You Zuo, Weiwei Jiang, **Dawei Yan**, Panlong Yang, Yubo Yan.  \
+**IEEE IoTJ 2025**
+  
+---
 * [**MULiving: Towards Real-time Multi-User Survival State Monitoring Using Wearable RFID Tags**]() \
 Shang Gao, **Dawei Yan**, Yubo Yan.  \
 **IEEE ICASSP 2025**  
