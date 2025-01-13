@@ -14,7 +14,7 @@ Publications
 ======
 ---
 * [**EarOE: Enabling Body-Channel Voice Interaction Interface on Earphones via Occlusion Effect**]() \
-Feiyu Han, You Zuo, Weiwei Jiang, **Dawei Yan**, Panlong Yang, Yubo Yan.  \
+Feiyu Han, You Zuo, Weiwei Jiang, **Dawei Yan**, Yuxin Zhao, Panlong Yang, Yubo Yan.  \
 **IEEE IoTJ 2025**
   
 ---
