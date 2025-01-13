@@ -39,7 +39,7 @@ Mingzhu Yang, **Dawei Yan**, Yubo Yan, Shang Gao, Fei Shang.  \
 
 ---
 * [**OE-VI2: Occlusion Effect-Based Narrow-Bandwidth In-Ear Voice Input Interface for Earphones**]() \
-Feiyu Han, You Zuo, Panlong Yang, **Dawei Yan**, Yubo Yan.  \
+You Zuo, Feiyu Han, Panlong Yang, **Dawei Yan**, Yubo Yan.  \
 **IEEE UIC 2024**  
 
 ---
