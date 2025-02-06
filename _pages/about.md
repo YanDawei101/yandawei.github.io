@@ -13,6 +13,11 @@ I am **Dawei Yan**, a final year PhD student at the School of Computer Science a
 Publications
 ======
 ---
+* [**Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors**]() \
+**Dawei Yan**, Panlong Yang, Fei Shang, Feiyu Han, Yubo Yan, Xiang-Yang Li.  \
+**IEEE TMC 2025**
+  
+---
 * [**EarOE: Enabling Body-Channel Voice Interaction Interface on Earphones via Occlusion Effect**]() \
 Feiyu Han, You Zuo, Weiwei Jiang, **Dawei Yan**, Yuxin Zhao, Panlong Yang, Yubo Yan.  \
 **IEEE IoTJ 2025**
