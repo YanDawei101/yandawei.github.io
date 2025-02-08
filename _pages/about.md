@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Dawei Yan"
 excerpt: "Dawei Yan"
 author_profile: true
 redirect_from: 
