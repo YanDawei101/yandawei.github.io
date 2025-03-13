@@ -23,7 +23,7 @@ Feiyu Han, You Zuo, Weiwei Jiang, **Dawei Yan**, Yuxin Zhao, Panlong Yang, Yubo 
 **IEEE IoTJ 2025**
   
 ---
-* [**MULiving: Towards Real-time Multi-User Survival State Monitoring Using Wearable RFID Tags**]() \
+* [**MULiving: Towards Real-time Multi-User Survival State Monitoring Using Wearable RFID Tags**](https://ieeexplore.ieee.org/abstract/document/10889572) \
 Shang Gao, **Dawei Yan**, Yubo Yan.  \
 **IEEE ICASSP 2025**  
 
