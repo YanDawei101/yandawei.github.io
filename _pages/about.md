@@ -13,7 +13,7 @@ I am a PhD student at the School of Computer Science and Technology, University 
 Publications
 ======
 ---
-* [**Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors**]() \
+* [**Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors**](https://ieeexplore.ieee.org/abstract/document/10882950) \
 **Dawei Yan**, Panlong Yang, Fei Shang, Feiyu Han, Yubo Yan, Xiang-Yang Li.  \
 **IEEE TMC 2025**
   
@@ -43,7 +43,7 @@ Mingzhu Yang, **Dawei Yan**, Yubo Yan, Shang Gao, Fei Shang.  \
 **IEEE MSN 2024**  
 
 ---
-* [**OE-VI2: Occlusion Effect-Based Narrow-Bandwidth In-Ear Voice Input Interface for Earphones**]() \
+* [**OE-VI2: Occlusion Effect-Based Narrow-Bandwidth In-Ear Voice Input Interface for Earphones**](https://ieeexplore.ieee.org/abstract/document/10925034) \
 You Zuo, Feiyu Han, Panlong Yang, **Dawei Yan**, Yubo Yan.  \
 **IEEE UIC 2024**  
 
