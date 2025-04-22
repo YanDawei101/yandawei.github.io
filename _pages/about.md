@@ -13,42 +13,42 @@ I am a PhD student at the School of Computer Science and Technology, University 
 Publications
 ======
 ---
-* **<font color='red'> \left[ SCIS'25 \right] </font>** [**The Field-based Model: A New Perspective on RF-based Material Sensing**]() \
+* **<font color='red'> [SCIS'25] </font>** [**The Field-based Model: A New Perspective on RF-based Material Sensing**]() \
 Fei Shang, Haocheng Jiang, Panlong Yang, **Dawei Yan**, Haohua Du, Xiang-Yang Li.  \
-**SCIENCE CHINA Information Sciences 2025 (CCF-A Journal)**
+**SCIENCE CHINA Information Sciences (CCF-A Journal)**
   
 ---
-* [**Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors**](https://ieeexplore.ieee.org/abstract/document/10882950) \
+* **<font color='red'> [TMC'25] </font>** [**Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors**](https://ieeexplore.ieee.org/abstract/document/10882950) \
 **Dawei Yan**, Panlong Yang, Fei Shang, Feiyu Han, Yubo Yan, Xiang-Yang Li.  \
-**IEEE TMC 2025 <font color='red'> (CCF-A Journal) </font>**
+**IEEE Transactions on Mobile Computing (CCF-A Journal)**
   
 ---
-* [**EarOE: Enabling Body-Channel Voice Interaction Interface on Earphones via Occlusion Effect**](https://ieeexplore.ieee.org/abstract/document/10843381) \
+* **<font color='red'> [IoTJ'25] </font>** [**EarOE: Enabling Body-Channel Voice Interaction Interface on Earphones via Occlusion Effect**](https://ieeexplore.ieee.org/abstract/document/10843381) \
 Feiyu Han, You Zuo, Weiwei Jiang, **Dawei Yan**, Yuxin Zhao, Panlong Yang, Yubo Yan.  \
-**IEEE IoTJ 2025 <font color='red'> (JCR-Q1 Journal) </font>**
+**IEEE Internet of Things Journal (JCR-Q1 Journal)**
   
 ---
-* [**MULiving: Towards Real-time Multi-User Survival State Monitoring Using Wearable RFID Tags**](https://ieeexplore.ieee.org/abstract/document/10889572) \
+* **<font color='red'> [ICASSP'25] </font>** [**MULiving: Towards Real-time Multi-User Survival State Monitoring Using Wearable RFID Tags**](https://ieeexplore.ieee.org/abstract/document/10889572) \
 Shang Gao, **Dawei Yan**, Yubo Yan.  \
-**IEEE ICASSP 2025 <font color='red'> (CCF-B Conference) </font>**  
+**2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (CCF-B Conference)**  
 
 ---
-* [**MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion**]() \
+* **<font color='red'> [INFOCOM'25] </font>** [**MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion**]() \
 Shanyue Wang, Yuxin Ding, Yubo Yan, Feiyu Han, **Dawei Yan**, Panlong Yang.  \
-**IEEE INFOCOM 2025 <font color='red'> (CCF-A Conference) </font>**  
+**IEEE International Conference on Computer Communications (CCF-A Conference)**  
 
 ---
-* [**Non-intrusive and Efficient Estimation of Antenna 3-D Orientation for WiFi APs**](https://ieeexplore.ieee.org/abstract/document/10731634) \
+* **<font color='red'> [TMC'24] </font>** [**Non-intrusive and Efficient Estimation of Antenna 3-D Orientation for WiFi APs**](https://ieeexplore.ieee.org/abstract/document/10731634) \
 **Dawei Yan**, Panlong Yang, Fei Shang, Nikolaos M Freris, Yubo Yan.  \
-**IEEE TMC 2024 <font color='red'> (CCF-A Journal) </font>**  
+**IEEE Transactions on Mobile Computing (CCF-A Journal)**  
 
 ---
-* [**WiSR: Sparse Recovery for Wi-Fi Signal via Generative Adversarial Network**]() \
+* **<font color='red'> [MSN'24] </font>** [**WiSR: Sparse Recovery for Wi-Fi Signal via Generative Adversarial Network**]() \
 Mingzhu Yang, **Dawei Yan**, Yubo Yan, Shang Gao, Fei Shang.  \
-**IEEE MSN 2024 <font color='red'> (CCF-C Conference) </font>**  
+**The 20th International Conference on Mobility, Sensing and Networking (CCF-C Conference)**  
 
 ---
-* [**OE-VI2: Occlusion Effect-Based Narrow-Bandwidth In-Ear Voice Input Interface for Earphones**](https://ieeexplore.ieee.org/abstract/document/10925034) \
+* **<font color='red'> [UIC'24] </font>** [**OE-VI2: Occlusion Effect-Based Narrow-Bandwidth In-Ear Voice Input Interface for Earphones**](https://ieeexplore.ieee.org/abstract/document/10925034) \
 You Zuo, Feiyu Han, Panlong Yang, **Dawei Yan**, Yubo Yan.  \
 **IEEE UIC 2024 <font color='red'> (CCF-C Conference) </font>**  
 
