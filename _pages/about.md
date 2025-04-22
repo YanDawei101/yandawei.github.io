@@ -20,7 +20,7 @@ Publications
 ---
 * **<font color='red'> [SCIS'25] </font>** [**The Field-based Model: A New Perspective on RF-based Material Sensing**]() \
 Fei Shang, Haocheng Jiang, Panlong Yang, **Dawei Yan**, Haohua Du, Xiang-Yang Li.  \
-SCIENCE CHINA Information Sciences (*<font color='red'> CCF-A Journal </font>)
+SCIENCE CHINA Information Sciences (*<font color='red'> CCF-A Journal </font>*)
   
 ---
 * **<font color='red'> [IEEE TMC'25] </font>** [**Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors**](https://ieeexplore.ieee.org/abstract/document/10882950) \
