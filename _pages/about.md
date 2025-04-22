@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the School of Computer Science and Technology, University of Science and Technology of China (**USTC**). My supervisors are Prof. [Panlong Yang](https://scholar.google.com/citations?user=sst3cxoAAAAJ), Prof. [Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ) and Prof. [Yubo Yan](https://scholar.google.com.hk/citations?user=87iG2TQAAAAJ). My research interests cover **wireless sensing**, **mobile computing**, and **RF fingerprints**. Researchers are welcome to contact me via email, and I look forward to our collaboration to make meaningful research contributions!
+I am a PhD student at the School of Computer Science and Technology, University of Science and Technology of China (**USTC**). My supervisors are Prof. [Panlong Yang](https://scholar.google.com/citations?user=sst3cxoAAAAJ), Prof. [Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ) and Prof. [Yubo Yan](https://scholar.google.com.hk/citations?user=87iG2TQAAAAJ). My research interests cover **wireless network and sensing**, **AI for wireless sensing**, and **Multimodal fusion sensing**. Researchers are welcome to contact me via email, and I look forward to our collaboration to make meaningful research contributions!
 
 Publications
 ======
+---
+* [**The Field-based Model: A New Perspective on RF-based Material Sensing**]() \
+Fei Shang, Haocheng Jiang, Panlong Yang, **Dawei Yan**, Haohua Du, Xiang-Yang Li.  \
+**SCIENCE CHINA Information Sciences 2025**, <font color='red'> CCF-A Journal </font>
+  
 ---
 * [**Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors**](https://ieeexplore.ieee.org/abstract/document/10882950) \
 **Dawei Yan**, Panlong Yang, Fei Shang, Feiyu Han, Yubo Yan, Xiang-Yang Li.  \
