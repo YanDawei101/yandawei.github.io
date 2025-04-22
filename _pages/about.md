@@ -12,7 +12,7 @@ I am a PhD student at the School of Computer Science and Technology, University 
 
 
 
-Education
+
 ======
 * 2020.09 - 2025.06: Ph.D. in School of Computer Science and Technology, University of Science and Technology of China. 
 * 2012.09 - 2016.06: B.E. in Measurement and Control Technology and Instruments, Jilin University.
