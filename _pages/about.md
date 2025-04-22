@@ -13,9 +13,9 @@ I am a PhD student at the School of Computer Science and Technology, University 
 Publications
 ======
 ---
-* [**The Field-based Model: A New Perspective on RF-based Material Sensing**]() \
+* **<font color='red'> \left[ SCIS'25 \right] </font>** [**The Field-based Model: A New Perspective on RF-based Material Sensing**]() \
 Fei Shang, Haocheng Jiang, Panlong Yang, **Dawei Yan**, Haohua Du, Xiang-Yang Li.  \
-**SCIENCE CHINA Information Sciences 2025 <font color='red'> (CCF-A Journal) </font>**
+**SCIENCE CHINA Information Sciences 2025 (CCF-A Journal)**
   
 ---
 * [**Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors**](https://ieeexplore.ieee.org/abstract/document/10882950) \
@@ -83,11 +83,17 @@ Fei Shang, Panlong Yang, **Dawei Yan**, Sijia Zhang, Xiang-Yang Li.  \
 **IEEE IoTJ 2022 <font color='red'> (JCR-Q1 Journal) </font>**  
 
 
+Academic Services
+=====
+* Journal Reviewer: IEEE Transactions on Mobile Computing
+* Journal Reviewer: IEEE Internet of Things Journal 
+
+
 Awards
 ======
-* PhD National Scholarship (博士研究生国家奖学金) 2024
-* Chinese Academy of Sciences President Scholarship (中国科学院院长奖学金) 2025
-* Outstanding Graduate of USTC (中国科大优秀毕业生) 2025
+* PhD National Scholarship 2024
+* Chinese Academy of Sciences President Scholarship 2025
+* Outstanding Graduate of USTC 2025
 
 
 Educations
