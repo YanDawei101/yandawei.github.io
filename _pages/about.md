@@ -90,14 +90,13 @@ IEEE Internet of Things Journal  *<font color='red'> (JCR-Q1 Journal) </font>*
 
 Academic Services
 =====
-* Journal Reviewer: IEEE Transactions on Mobile Computing
-* Journal Reviewer: IEEE Internet of Things Journal 
+* Journal Reviewer: IEEE TMC, IEEE IoTJ
 
 
 Awards
 ======
 * PhD National Scholarship 2024
-* Chinese Academy of Sciences President Scholarship 2025
-* Outstanding Graduate of USTC 2025
+* Chinese Academy of Sciences President Scholarship 2025 [[link](https://cs.ustc.edu.cn/2025/0421/c3054a681313/page.htm)]
+* Outstanding Graduate of USTC 2025 [[link](https://cs.ustc.edu.cn/2025/0317/c3054a676982/page.htm)]
 
 
