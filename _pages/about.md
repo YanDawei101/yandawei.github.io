@@ -96,7 +96,6 @@ Academic Services
 Awards
 ======
 * PhD National Scholarship 2024 [[link](https://cs.ustc.edu.cn/2024/1104/c22510a659409/page.htm)]
-* Chinese Academy of Sciences President Scholarship 2025 [[link](https://cs.ustc.edu.cn/2025/0421/c3054a681313/page.htm)]
 * Outstanding Graduate of USTC 2025 [[link](https://cs.ustc.edu.cn/2025/0317/c3054a676982/page.htm)]
 
 
