@@ -18,9 +18,8 @@ Email: yandw1994@gmail.com  \
 
 Educations
 ======
----
 * 2020.09 - 2025.06: School of Computer Science and Technology, University of Science and Technology of China (USTC), **Ph.D.**, supervised by Prof. [Panlong Yang](https://scholar.google.com/citations?user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ) (ACM/IEEE Fellow).
----
+
 * 2012.09 - 2016.06: Measurement and Control Technology and Instruments, Jilin University (JLU), **B.E.**.
 
 
