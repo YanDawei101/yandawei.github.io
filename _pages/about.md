@@ -11,8 +11,8 @@ redirect_from:
 I am a PhD student at the School of Computer Science and Technology, University of Science and Technology of China (**USTC**). My research interests cover **wireless network and sensing**, **AI for wireless sensing**, and **Multimodal fusion sensing**. Researchers are welcome to contact me via email, and I look forward to our collaboration to make meaningful research contributions!
 
 
-* 2020.09 - 2025.06: **Ph.D.** in School of Computer Science and Technology, University of Science and Technology of China, supervised by Prof. [Panlong Yang](https://scholar.google.com/citations?user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ) (ACM/IEEE Fellow).
-* 2012.09 - 2016.06: **B.E.** in Measurement and Control Technology and Instruments, Jilin University.
+* 2020.09 - 2025.06: School of Computer Science and Technology, University of Science and Technology of China (USTC), **Ph.D.**, supervised by Prof. [Panlong Yang](https://scholar.google.com/citations?user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ) (ACM/IEEE Fellow).
+* 2012.09 - 2016.06: Measurement and Control Technology and Instruments, Jilin University (JLU), **B.E.**.
 
 
 Publications
