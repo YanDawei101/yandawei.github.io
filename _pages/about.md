@@ -13,7 +13,7 @@ School of Cyber Security and Computer / Department of Computer Teaching, \
 Hebei University (HBU).  \
 No. 2666, Qiyi East Road, Baoding, Hebei, China.  \
 Email: yandw1994@gmail.com  \
-**Research Interests:** wireless network and sensing, AI for wireless sensing, Multi-modal fusion, Wireless security. 
+**Research Interests:** wireless/wearable sensing, multi-modal fusion, wireless security. 
 
 
 Educations
