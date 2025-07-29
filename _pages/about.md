@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-**Professor, Ph.D.**  \
-School of Cyber Security and Computer / Department of Computer Teaching,  \
-Hebei University (HBU). \
-
-I am a PhD student at the School of Computer Science and Technology, University of Science and Technology of China (**USTC**). My research interests cover **wireless network and sensing**, **AI for wireless sensing**, and **Multimodal fusion sensing**. Researchers are welcome to contact me via email, and I look forward to our collaboration to make meaningful research contributions!
+**Professor, Ph.D.** 
+School of Cyber Security and Computer / Department of Computer Teaching, 
+Hebei University (HBU).
+No. 2666, Qiyi East Road, Baoding, Hebei, China.
+Email: yandw1994@gmail.com
+**Research Interests:**
+* wireless network and sensing
+* AI for wireless sensing
+* Multimodal fusion sensing
+* Wireless security
 
 
 * 2020.09 - 2025.06: School of Computer Science and Technology, University of Science and Technology of China (USTC), **Ph.D.**, supervised by Prof. [Panlong Yang](https://scholar.google.com/citations?user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ) (ACM/IEEE Fellow).
