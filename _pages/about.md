@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* **Professor, Ph.D.**  \
-* School of Cyber Security and Computer / Department of Computer Teaching,  \
-* Hebei University (HBU). \
+**Professor, Ph.D.**  \
+School of Cyber Security and Computer / Department of Computer Teaching,  \
+Hebei University (HBU). \
 
 I am a PhD student at the School of Computer Science and Technology, University of Science and Technology of China (**USTC**). My research interests cover **wireless network and sensing**, **AI for wireless sensing**, and **Multimodal fusion sensing**. Researchers are welcome to contact me via email, and I look forward to our collaboration to make meaningful research contributions!
 
