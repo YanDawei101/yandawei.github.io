@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dawei Yan / Homepage"
+title                    : "Dawei Yan 's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "daweiyan.png"
-  name             : "闫大伟 (Dawei Yan)"
+  # name             : "闫大伟 (Dawei Yan)"
   pronouns         : # example: "she/her"  
-  bio              : "人生到处知何似，应似飞鸿踏雪泥。"
-  location         : "Hefei, Anhui, China"
-  employer         : "USTC"
+  # bio              : "人生到处知何似，应似飞鸿踏雪泥。"
+  # location         : "Hefei, Anhui, China"
+  # employer         : "USTC"
   uri              : # URL
-  email            : "yandw@mail.ustc.edu.cn" 
+  # email            : "yandw@mail.ustc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
