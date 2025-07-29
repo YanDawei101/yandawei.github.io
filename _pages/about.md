@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Dawei Yan"
+title: "Dawei Yan (闫大伟)"
 excerpt: "Dawei Yan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 I am a PhD student at the School of Computer Science and Technology, University of Science and Technology of China (**USTC**). My research interests cover **wireless network and sensing**, **AI for wireless sensing**, and **Multimodal fusion sensing**. Researchers are welcome to contact me via email, and I look forward to our collaboration to make meaningful research contributions!
 
