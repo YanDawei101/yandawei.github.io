@@ -33,7 +33,6 @@ Educations
 
 Publications (# Co-first Author,  * Corresponding Author)
 ======
----
 * **<font color='red'> [RFCom'25] </font>** [**RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network**]() \
 Fei Shang, Haohua Du, **Dawei Yan**, Panlong Yang.  \
 The 2nd International Workshop on Radio Frequency (RF) Computing
