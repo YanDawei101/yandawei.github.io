@@ -39,7 +39,6 @@ Publications
 Fei Shang, Haohua Du, **Dawei Yan**, Panlong Yang.  \
 The 2nd International Workshop on Radio Frequency (RF) Computing
 
-
 ---
 * **<font color='red'> [SCIS'25] </font>** [**The Field-based Model: A New Perspective on RF-based Material Sensing**]() \
 Fei Shang, Haocheng Jiang, Panlong Yang, **Dawei Yan**, Haohua Du, Xiang-Yang Li.  \
@@ -65,6 +64,7 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing  *<fon
 Shanyue Wang, Yuxin Ding, Yubo Yan, Feiyu Han, **Dawei Yan**, Panlong Yang.  \
 IEEE International Conference on Computer Communications  *<font color='red'> (CCF-A Conference) </font>*
 
+**<font color='red'> 2024 </font>**
 ---
 * **<font color='red'> [IEEE TMC'24] </font>** [**Non-intrusive and Efficient Estimation of Antenna 3-D Orientation for WiFi APs**](https://ieeexplore.ieee.org/abstract/document/10731634) \
 **Dawei Yan**, Panlong Yang, Fei Shang, Nikolaos M Freris, Yubo Yan.  \
@@ -105,7 +105,8 @@ PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies  *<font color=
 **Dawei Yan**, Panlong Yang, Fei Shang, Weiwei Jiang, Xiang-Yang Li.  \
 PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies  *<font color='red'> (CCF-A Conference) </font>* 
 
----
+
+---**<font color='red'> 2022 </font>**
 * **<font color='red'> [IEEE IoTJ'22] </font>** [**Real-time Identification of Rogue WiFi Connections in the Wild**](https://ieeexplore.ieee.org/abstract/document/9956881) \
 **Dawei Yan**, Yubo Yan, Panlong Yang, Wen-Zhan Song, Xiang-Yang Li, Pengfei Liu.  \
 IEEE Internet of Things Journal  *<font color='red'> (JCR-Q1 Journal) </font>* 
