@@ -12,7 +12,7 @@ redirect_from:
 School of Cyber Security and Computer / Department of Computer Teaching, \
 Hebei University (HBU).  \
 No. 2666, Qiyi East Road, Baoding, Hebei, China.  \
-Email: yandw1994@gmail.com  
+Email: daweiyan@hbu.edu.cn, yandw@mail.ustc.edu.cn 
 
 
 
@@ -33,6 +33,12 @@ Educations
 
 Publications
 ======
+---
+* **<font color='red'> [RFCom'25] </font>** [**RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network**]() \
+Fei Shang, Haohua Du, **Dawei Yan**, Panlong Yang.  \
+The 2nd International Workshop on Radio Frequency (RF) Computing
+
+
 ---
 * **<font color='red'> [SCIS'25] </font>** [**The Field-based Model: A New Perspective on RF-based Material Sensing**]() \
 Fei Shang, Haocheng Jiang, Panlong Yang, **Dawei Yan**, Haohua Du, Xiang-Yang Li.  \
