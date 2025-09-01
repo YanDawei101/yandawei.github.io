@@ -31,7 +31,7 @@ Educations
 * 2012.09 - 2016.06: Measurement and Control Technology and Instruments, Jilin University (JLU), **B.E.**.
 
 
-Publications
+Publications (# Co-first Author,  * Corresponding Author)
 ======
 **<font color='red'> 2025 </font>**
 ---
