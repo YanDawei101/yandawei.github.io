@@ -21,7 +21,7 @@ Email: daweiyan@hbu.edu.cn, yandw@mail.ustc.edu.cn
 * Wireless Security
 
 
-:mortar_board: Educations
+<font size=12>:mortar_board: Educations</font>
 ======
 * 2020.09 - 2025.06: School of Computer Science and Technology, University of Science and Technology of China (USTC), **Ph.D.**, supervised by Prof. [Panlong Yang](https://scholar.google.com/citations?user=sst3cxoAAAAJ) and Prof. [Xiang-Yang Li](https://scholar.google.com/citations?user=JURtNb0AAAAJ) (ACM/IEEE Fellow).
 
