@@ -34,6 +34,8 @@ News
 
 * [2025.09] :tada: :tada: :tada: Our paper “RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network” has been accepted by RFCom 2025.
 
+* [2025.06] :tada: :tada: :tada:  I have obtained a Ph.D. degree.
+
 * [2025.05] :tada: :tada: :tada: Our paper “The field-based model: a new perspective on RF-based material sensing” has been accepted by SCIS.
 
 
