@@ -72,7 +72,7 @@ IEEE International Conference on Computer Communications  *<font color='red'> (C
 IEEE Transactions on Mobile Computing  *<font color='red'> (CCF-A Journal) </font>* 
 
 ---
-* **<font color='red'> [IEEE MSN'24] </font>** [**WiSR: Sparse Recovery for Wi-Fi Signal via Generative Adversarial Network**]() \
+* **<font color='red'> [IEEE MSN'24] </font>** [**WiSR: Sparse Recovery for Wi-Fi Signal via Generative Adversarial Network**](https://ieeexplore.ieee.org/document/11036493) \
 Mingzhu Yang, **Dawei Yan**, Yubo Yan, Shang Gao, Fei Shang.  \
 The 20th International Conference on Mobility, Sensing and Networking  *<font color='red'> (CCF-C Conference) </font>* 
 
