@@ -38,6 +38,8 @@ News
 
 * **[2025.05] :tada: :tada: :tada:** Our paper “The field-based model: a new perspective on RF-based material sensing” has been accepted by **SCIS**.
 
+* **[2025.02] :tada: :tada: :tada:** Our paper “Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors” has been accepted by **IEEE TMC**.
+
 
 Publications 
 ======
