@@ -30,9 +30,9 @@ Educations
 
 News
 ======
-* [2025.09] :tada: :tada: :tada: Our paper “freeEnv: Enabling Zero-Effort RF-based Micro-Environment Changes Monitoring” has been accepted by IEEE TMC.
+* [2025.09] :tada: :tada: :tada: Our paper “freeEnv: Enabling Zero-Effort RF-based Micro-Environment Changes Monitoring” has been accepted by IEEE TMC. Our paper “RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network” has been accepted by RFCom 2025.
 
-* [2025.09] :tada: :tada: :tada: Our paper “RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network” has been accepted by RFCom 2025.
+* [2025.05] :tada: :tada: :tada: Our paper “The field-based model: a new perspective on RF-based material sensing” has been accepted by SCIS.
 
 
 Publications 
