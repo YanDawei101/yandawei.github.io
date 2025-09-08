@@ -35,6 +35,11 @@ Publications
 ======
 (# Co-first Author,  * Corresponding Author)
 
+* **<font color='red'> [IEEE TMC'25] </font>** [**freeEnv: Enabling Zero-Effort RF-based Micro-Environment Changes Monitoring**](https://ieeexplore.ieee.org/abstract/document/10882950) \
+**Dawei Yan**, Feiyu Han, Mingzhu Yang, Shanyue Wang, Panlong Yang, Yubo Yan.  \
+IEEE Transactions on Mobile Computing  *<font color='red'> (CCF-A Journal) </font>*
+  
+---
 * **<font color='red'> [RFCom'25] </font>** [**RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network**]() \
 Fei Shang, Haohua Du, **Dawei Yan**, Panlong Yang.  \
 The 2nd International Workshop on Radio Frequency (RF) Computing
