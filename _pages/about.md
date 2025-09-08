@@ -40,6 +40,8 @@ News
 
 * **[2025.02] :tada: :tada: :tada:** Our paper “Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors” has been accepted by **IEEE TMC**.
 
+* **[2025.01] :tada: :tada: :tada:** Our paper “EarOE: Enabling Body-Channel Voice Interaction Interface on Earphones via Occlusion Effect” has been accepted by **IEEE IoTJ**.
+
 
 Publications 
 ======
