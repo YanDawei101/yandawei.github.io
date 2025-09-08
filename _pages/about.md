@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **Professor, Ph.D.** \
-School of Cyber Security and Computer / Department of Computer Teaching, \
+School of Cyber Security and Computer, \
 Hebei University (HBU).  \
 No. 2666, Qiyi East Road, Baoding, Hebei, China.  \
 Email: daweiyan@hbu.edu.cn, yandw@mail.ustc.edu.cn 
