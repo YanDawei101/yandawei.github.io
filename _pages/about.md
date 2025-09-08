@@ -28,21 +28,6 @@ Educations
 * 2012.09 - 2016.06: Measurement and Control Technology and Instruments, Jilin University (JLU), **B.E.**.
 
 
-News
-======
-* **[2025.09]** Our paper “freeEnv: Enabling Zero-Effort RF-based Micro-Environment Changes Monitoring” has been accepted by **IEEE TMC**.
-
-* **[2025.09]** Our paper “RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network” has been accepted by **RFCom 2025**.
-
-* **[2025.06]** I have obtained a Ph.D. degree.
-
-* **[2025.05]** Our paper “The field-based model: a new perspective on RF-based material sensing” has been accepted by **SCIS**.
-
-* **[2025.02]** Our paper “Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors” has been accepted by **IEEE TMC**.
-
-* **[2025.01]** Our paper “EarOE: Enabling Body-Channel Voice Interaction Interface on Earphones via Occlusion Effect” has been accepted by **IEEE IoTJ**.
-
-
 Publications 
 ======
 (# Co-first Author,  * Corresponding Author)
