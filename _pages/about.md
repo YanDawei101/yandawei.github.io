@@ -28,6 +28,13 @@ Educations
 * 2012.09 - 2016.06: Measurement and Control Technology and Instruments, Jilin University (JLU), **B.E.**.
 
 
+News
+======
+* [2025.09] :tada: :tada: :tada: Our paper “freeEnv: Enabling Zero-Effort RF-based Micro-Environment Changes Monitoring” has been accepted by IEEE TMC.
+
+* [2025.09] :tada: :tada: :tada: Our paper “RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network” has been accepted by RFCom 2025.
+
+
 Publications 
 ======
 (# Co-first Author,  * Corresponding Author)
