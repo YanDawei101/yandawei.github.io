@@ -42,7 +42,7 @@ Fei Shang, Haohua Du, **Dawei Yan**, Panlong Yang.  \
 The 2nd International Workshop on Radio Frequency (RF) Computing
 
 ---
-* **<font color='red'> [SCIS'25] </font>** [**The Field-based Model: A New Perspective on RF-based Material Sensing**]() \
+* **<font color='red'> [SCIS'25] </font>** [**The Field-based Model: A New Perspective on RF-based Material Sensing**](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4444-8) \
 Fei Shang, Haocheng Jiang, Panlong Yang, **Dawei Yan**, Haohua Du, Xiang-Yang Li.  \
 SCIENCE CHINA Information Sciences  *<font color='red'> (CCF-A Journal) </font>*
   
@@ -62,7 +62,7 @@ Shang Gao, **Dawei Yan**, Yubo Yan.  \
 IEEE International Conference on Acoustics, Speech, and Signal Processing  *<font color='red'> (CCF-B Conference) </font>*
 
 ---
-* **<font color='red'> [IEEE INFOCOM'25] </font>** [**MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion**]() \
+* **<font color='red'> [IEEE INFOCOM'25] </font>** [**MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion**](https://ieeexplore.ieee.org/abstract/document/11044516) \
 Shanyue Wang, Yuxin Ding, Yubo Yan, Feiyu Han, **Dawei Yan**, Panlong Yang.  \
 IEEE International Conference on Computer Communications  *<font color='red'> (CCF-A Conference) </font>*
 
