@@ -32,6 +32,11 @@ Publications
 ======
 (# Co-first Author,  * Corresponding Author)
 
+* **<font color='red'> [ACM TOSN'25] </font>** [**freeDoppler: A Doppler Effect Learning Network for Accurate RF-based Velocity Estimation**]() \
+**Dawei Yan**, Feiyu Han, Shang Gao, Fei Shang, Panlong Yang, Yubo Yan.  \
+ACM Transactions on Sensor Networks  *<font color='red'> (CCF-B Journal) </font>* 
+  
+---
 * **<font color='red'> [IEEE TMC'25] </font>** [**freeEnv: Enabling Zero-Effort RF-based Micro-Environment Changes Monitoring**](https://ieeexplore.ieee.org/document/11155185) \
 **Dawei Yan**, Feiyu Han, Mingzhu Yang, Shanyue Wang, Panlong Yang, Yubo Yan.  \
 IEEE Transactions on Mobile Computing  *<font color='red'> (CCF-A Journal) </font>* 
