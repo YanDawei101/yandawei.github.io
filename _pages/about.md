@@ -107,12 +107,12 @@ IEEE/ACM International Symposium on Quality of Service  *<font color='red'> (CCF
 IEEE Internet of Things Journal  *<font color='red'> (JCR-Q1 Journal) </font>*
 
 ---
-* **<font color='red'> [ACM UbiComp'24] </font>** [**LiquImager: Fine-grained Liquid Identification and Container Imaging System with COTS WiFi Devices**](https://dl.acm.org/doi/abs/10.1145/3643509) \
+* **<font color='red'> [ACM Ubicomp'24] </font>** [**LiquImager: Fine-grained Liquid Identification and Container Imaging System with COTS WiFi Devices**](https://dl.acm.org/doi/abs/10.1145/3643509) \
 Fei Shang, Panlong Yang, **Dawei Yan**, Sijia Zhang, Xiang-Yang Li.  \
 PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies  *<font color='red'> (CCF-A Conference) </font>*  
 
 ---
-* **<font color='red'> [ACM UbiComp'24] </font>** [**Wi-Painter: Fine-grained Material Identification and Image Delineation Using COTS WiFi Devices**](https://dl.acm.org/doi/abs/10.1145/3633809) \
+* **<font color='red'> [ACM Ubicomp'24] </font>** [**Wi-Painter: Fine-grained Material Identification and Image Delineation Using COTS WiFi Devices**](https://dl.acm.org/doi/abs/10.1145/3633809) \
 **Dawei Yan**, Panlong Yang, Fei Shang, Weiwei Jiang, Xiang-Yang Li.  \
 PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies  *<font color='red'> (CCF-A Conference) </font>* 
 
