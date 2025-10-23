@@ -42,7 +42,7 @@ Bo Wang, **Dawei Yan**, Xiaoshan Zhu, Yubo Yan, Lei Yu.  \
 The 31st IEEE International Conference on Parallel and Distributed Systems *<font color='red'> (CCF-C Conference) </font>* 
   
 ---
-* **<font color='red'> [ACM TOSN'25] </font>** [**freeDoppler: A Doppler Effect Learning Network for Accurate RF-based Velocity Estimation**]() \
+* **<font color='red'> [ACM TOSN'25] </font>** [**freeDoppler: A Doppler Effect Learning Network for Accurate RF-based Velocity Estimation**](https://dl.acm.org/doi/10.1145/3772369) \
 **Dawei Yan**, Feiyu Han, Shang Gao, Fei Shang, Panlong Yang, Yubo Yan.  \
 ACM Transactions on Sensor Networks  *<font color='red'> (CCF-B Journal) </font>* 
   
