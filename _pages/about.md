@@ -32,6 +32,11 @@ Publications
 ======
 (# Co-first Author,  * Corresponding Author)
 
+* **<font color='red'> [ACM TOSN'26] </font>** [**SpeedFi: Fine-grained Speed Estimation for Bodyweight Exercise with WiFi**]() \
+Shang Gao, **Dawei Yan**, Feiyu Han, Yanfei Zhang, Yubo Yan.  \
+ACM Transactions on Sensor Networks *<font color='red'> (CCF-B Journal) </font>* 
+  
+---
 * **<font color='red'> [IEEE ICPADS'25] </font>** [**Wi-Fi Based Indoor Human Trajectory Tracking with Diffusion-Model**]() \
 Rui Zang, **Dawei Yan**, Bo Wang, Yubo Yan.  \
 The 31st IEEE International Conference on Parallel and Distributed Systems *<font color='red'> (CCF-C Conference) </font>* 
