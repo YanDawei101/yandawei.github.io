@@ -32,6 +32,11 @@ Publications
 ======
 (# Co-first Author,  * Corresponding Author)
 
+* **<font color='red'> [CJC'26] </font>** [**一种基于生成对抗网络的稀疏CSI数据增强方法**]() \
+**Dawei Yan**, Yubo Yan, Panlong Yang.  \
+计算机学报 *<font color='red'> (CCF-T1 Journal) </font>* 
+  
+---
 * **<font color='red'> [ACM TOSN'26] </font>** [**SpeedFi: Fine-grained Speed Estimation for Bodyweight Exercise with WiFi**]() \
 Shang Gao, **Dawei Yan**, Feiyu Han, Yanfei Zhang, Yubo Yan.  \
 ACM Transactions on Sensor Networks *<font color='red'> (CCF-B Journal) </font>* 
