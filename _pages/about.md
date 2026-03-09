@@ -33,7 +33,7 @@ Publications
 (# Co-first Author,  * Corresponding Author)
 
 * **<font color='red'> [CJC'26] </font>** [**一种基于生成对抗网络的稀疏CSI数据增强方法**]() \
-**Dawei Yan**, Yubo Yan, Panlong Yang.  \
+**闫大伟**, 闫宇博, 杨盘隆.  \
 计算机学报 *<font color='red'> (CCF-T1 Journal) </font>* 
   
 ---
