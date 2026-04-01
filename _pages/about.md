@@ -32,6 +32,11 @@ Publications
 ======
 (# Co-first Author,  * Corresponding Author)
 
+* **<font color='red'> [ACM Ubicomp'26] </font>** [**Exploring and Addressing Low-Quality Auxiliary Modality in Earable Dual-microphone Speech Enhancement**]() \
+Feiyu Han, **Dawei Yan**, Shanyue Wang, Jinyang Huang, Yuanhao Feng, Panlong Yang.  \
+PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies  *<font color='red'> (CCF-A Conference) </font>* 
+  
+---
 * **<font color='red'> [CJC'26] </font>** [**一种基于生成对抗网络的稀疏CSI数据增强方法**]() \
 **闫大伟**, 闫宇博, 杨盘隆.  \
 计算机学报 *<font color='red'> (CCF-T1 Journal) </font>* 
@@ -39,7 +44,7 @@ Publications
 ---
 * **<font color='red'> [ACM TOSN'26] </font>** [**SpeedFi: Fine-grained Speed Estimation for Bodyweight Exercise with WiFi**]() \
 Shang Gao, **Dawei Yan**, Feiyu Han, Yanfei Zhang, Yubo Yan.  \
-ACM Transactions on Sensor Networks *<font color='red'> (CCF-B Journal) </font>* 
+ACM Transactions on Sensor Networks *<font color='red'> (CCF-B Journal, JCR-Q1 Journal) </font>* 
   
 ---
 * **<font color='red'> [IEEE ICPADS'25] </font>** [**Wi-Fi Based Indoor Human Trajectory Tracking with Diffusion-Model**]() \
@@ -54,12 +59,12 @@ The 31st IEEE International Conference on Parallel and Distributed Systems *<fon
 ---
 * **<font color='red'> [ACM TOSN'25] </font>** [**freeDoppler: A Doppler Effect Learning Network for Accurate RF-based Velocity Estimation**](https://dl.acm.org/doi/10.1145/3772369) \
 **Dawei Yan**, Feiyu Han, Shang Gao, Fei Shang, Panlong Yang, Yubo Yan.  \
-ACM Transactions on Sensor Networks  *<font color='red'> (CCF-B Journal) </font>* 
+ACM Transactions on Sensor Networks  *<font color='red'> (CCF-B Journal, JCR-Q1 Journal) </font>* 
   
 ---
 * **<font color='red'> [IEEE TMC'25] </font>** [**freeEnv: Enabling Zero-Effort RF-based Micro-Environment Changes Monitoring**](https://ieeexplore.ieee.org/document/11155185) \
 **Dawei Yan**, Feiyu Han, Mingzhu Yang, Shanyue Wang, Panlong Yang, Yubo Yan.  \
-IEEE Transactions on Mobile Computing  *<font color='red'> (CCF-A Journal) </font>* 
+IEEE Transactions on Mobile Computing  *<font color='red'> (CCF-A Journal, JCR-Q1 Journal) </font>* 
   
 ---
 * **<font color='red'> [RFCom'25] </font>** [**RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network**]() \
@@ -74,7 +79,7 @@ SCIENCE CHINA Information Sciences  *<font color='red'> (CCF-A Journal) </font>*
 ---
 * **<font color='red'> [IEEE TMC'25] </font>** [**Pushing the Limits of WiFi-based Gait Recognition Towards Non-gait Human Behaviors**](https://ieeexplore.ieee.org/abstract/document/10882950) \
 **Dawei Yan**, Panlong Yang, Fei Shang, Feiyu Han, Yubo Yan, Xiang-Yang Li.  \
-IEEE Transactions on Mobile Computing  *<font color='red'> (CCF-A Journal) </font>*
+IEEE Transactions on Mobile Computing  *<font color='red'> (CCF-A Journal, JCR-Q1 Journal) </font>*
   
 ---
 * **<font color='red'> [IEEE IoTJ'25] </font>** [**EarOE: Enabling Body-Channel Voice Interaction Interface on Earphones via Occlusion Effect**](https://ieeexplore.ieee.org/abstract/document/10843381) \
@@ -94,7 +99,7 @@ IEEE International Conference on Computer Communications  *<font color='red'> (C
 ---
 * **<font color='red'> [IEEE TMC'24] </font>** [**Non-intrusive and Efficient Estimation of Antenna 3-D Orientation for WiFi APs**](https://ieeexplore.ieee.org/abstract/document/10731634) \
 **Dawei Yan**, Panlong Yang, Fei Shang, Nikolaos M Freris, Yubo Yan.  \
-IEEE Transactions on Mobile Computing  *<font color='red'> (CCF-A Journal) </font>* 
+IEEE Transactions on Mobile Computing  *<font color='red'> (CCF-A Journal, JCR-Q1 Journal) </font>* 
 
 ---
 * **<font color='red'> [IEEE MSN'24] </font>** [**WiSR: Sparse Recovery for Wi-Fi Signal via Generative Adversarial Network**](https://ieeexplore.ieee.org/document/11036493) \
