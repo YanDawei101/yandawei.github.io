@@ -123,7 +123,7 @@ IEEE/ACM International Symposium on Quality of Service  *<font color='red'> (CCF
 
 ---
 * **<font color='red'> [IEEE IoTJ'24] </font>** [**freeLoc: Wireless-based Cross-Domain Device-free Fingerprints Localization to free User's Motions**](https://ieeexplore.ieee.org/abstract/document/10506982) \
-**Dawei Yan**, Fei Shang, Panlong Yang, Feiyu Han, Yubo Yan, Xiang-Yang Li.  \
+**Dawei Yan#**, Fei Shang#, Panlong Yang, Feiyu Han, Yubo Yan, Xiang-Yang Li.  \
 IEEE Internet of Things Journal  *<font color='red'> (JCR-Q1 Journal) </font>*
 
 ---
