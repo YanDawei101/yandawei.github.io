@@ -33,7 +33,7 @@ Publications
 (# Co-first Author,  * Corresponding Author)
 
 * **<font color='red'> [ACM Ubicomp'26] </font>** [**Exploring and Addressing Low-Quality Auxiliary Modality in Earable Dual-microphone Speech Enhancement**]() \
-Feiyu Han, **Dawei Yan***, Shanyue Wang, Jinyang Huang, Yuanhao Feng*, Panlong Yang.  \
+Feiyu Han, **Dawei Yan**, Shanyue Wang, Jinyang Huang, Yuanhao Feng, Panlong Yang.  \
 PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies  *<font color='red'> (CCF-A Conference) </font>* 
   
 ---
