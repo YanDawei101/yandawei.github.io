@@ -32,8 +32,8 @@ Publications
 ======
 (# Co-first Author,  * Corresponding Author)
 
-* **<font color='red'> [ACM TOSN'26] </font>** [**SpeedFi: Fine-grained Speed Estimation for Bodyweight Exercise with WiFi**]() \
-Shaojie Yan, Feiyu Han, **Dawei Yan**, Panlong Yang, Yanfei Zhang, Yubo Yan.  \
+* **<font color='red'> [ACM TOSN'26] </font>** [**HearT: Enabling Acoustic Sensing of Ingested-Liquid Temperature via Hydrodynamic Vibration Modeling**]() \
+Shaojie Yan, Feiyu Han, **Dawei Yan**, Panlong Yang, Yubo Yan, Yanfei Zhang.  \
 ACM Transactions on Sensor Networks *<font color='red'> (CCF-B Journal, JCR-Q1 Journal) </font>* 
   
 ---
@@ -47,17 +47,17 @@ PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies  *<font color=
 计算机学报 *<font color='red'> (CCF-T1 Journal) </font>* 
   
 ---
-* **<font color='red'> [ACM TOSN'26] </font>** [**SpeedFi: Fine-grained Speed Estimation for Bodyweight Exercise with WiFi**]() \
+* **<font color='red'> [ACM TOSN'26] </font>** [**SpeedFi: Fine-grained Speed Estimation for Bodyweight Exercise with WiFi**](https://dl.acm.org/doi/full/10.1145/3789207) \
 Shang Gao, **Dawei Yan**, Feiyu Han, Yanfei Zhang, Yubo Yan.  \
 ACM Transactions on Sensor Networks *<font color='red'> (CCF-B Journal, JCR-Q1 Journal) </font>* 
   
 ---
-* **<font color='red'> [IEEE ICPADS'25] </font>** [**Wi-Fi Based Indoor Human Trajectory Tracking with Diffusion-Model**]() \
+* **<font color='red'> [IEEE ICPADS'25] </font>** [**Wi-Fi Based Indoor Human Trajectory Tracking with Diffusion-Model**](https://ieeexplore.ieee.org/abstract/document/11322924) \
 Rui Zang, **Dawei Yan**, Bo Wang, Yubo Yan.  \
 The 31st IEEE International Conference on Parallel and Distributed Systems *<font color='red'> (CCF-C Conference) </font>* 
   
 ---
-* **<font color='red'> [IEEE ICPADS'25] </font>** [**LOAR-Fi: Location- and Orientation- Adaptive Respiration Monitoring Using Low-Cost WiFi**]() \
+* **<font color='red'> [IEEE ICPADS'25] </font>** [**LOAR-Fi: Location- and Orientation- Adaptive Respiration Monitoring Using Low-Cost WiFi**](https://ieeexplore.ieee.org/abstract/document/11322991) \
 Bo Wang, **Dawei Yan**, Xiaoshan Zhu, Yubo Yan, Lei Yu.  \
 The 31st IEEE International Conference on Parallel and Distributed Systems *<font color='red'> (CCF-C Conference) </font>* 
   
@@ -67,12 +67,12 @@ The 31st IEEE International Conference on Parallel and Distributed Systems *<fon
 ACM Transactions on Sensor Networks  *<font color='red'> (CCF-B Journal, JCR-Q1 Journal) </font>* 
   
 ---
-* **<font color='red'> [IEEE TMC'25] </font>** [**freeEnv: Enabling Zero-Effort RF-based Micro-Environment Changes Monitoring**](https://ieeexplore.ieee.org/document/11155185) \
+* **<font color='red'> [IEEE TMC'25] </font>** [**freeEnv: Enabling Zero-Effort RF-based Micro-Environment Changes Monitoring**](https://ieeexplore.ieee.org/abstract/document/11155185) \
 **Dawei Yan**, Feiyu Han, Mingzhu Yang, Shanyue Wang, Panlong Yang, Yubo Yan.  \
 IEEE Transactions on Mobile Computing  *<font color='red'> (CCF-A Journal, JCR-Q1 Journal) </font>* 
   
 ---
-* **<font color='red'> [RFCom'25] </font>** [**RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network**]() \
+* **<font color='red'> [RFCom'25] </font>** [**RINN: One Sample Radio Frequency Imaging based on Physics Informed Neural Network**](https://dl.acm.org/doi/abs/10.1145/3737906.3767098) \
 Fei Shang, Haohua Du, **Dawei Yan**, Panlong Yang.  \
 The 2nd International Workshop on Radio Frequency (RF) Computing
 
