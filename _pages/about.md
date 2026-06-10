@@ -149,7 +149,7 @@ IEEE Internet of Things Journal  *<font color='red'> (JCR-Q1 Journal) </font>*
 
 Academic Services
 =====
-* Reviewer: ACM IMWUT/Ubicomp, IEEE TMC, IEEE IoTJ, IEEE WCL, etc.
+* Reviewer: ACM IMWUT/Ubicomp, IEEE TMC, IEEE IoTJ, IEEE WCL, EAAI, etc.
 
 
 Awards
